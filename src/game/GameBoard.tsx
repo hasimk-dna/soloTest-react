@@ -11,7 +11,7 @@ function GameBoard() {
 
     app
       .init({
-        background: "#2c2c2c",
+        background: "#2a2a2a",
         resizeTo: window,
       })
       .then(() => {
